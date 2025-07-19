@@ -1,8 +1,8 @@
-# 👟 FitFashion - Roupas de Academia Premium
+# FitFashion - Roupas de Academia Premium
 
 **FitFashion** é uma landing page moderna e responsiva criada com HTML e CSS puro, com foco em apresentar uma marca fictícia de roupas fitness premium. O projeto simula um site institucional de e-commerce com identidade visual forte e foco em conversão.
 
-## 📌 Objetivo
+## Objetivo
 
 O objetivo deste projeto é demonstrar habilidades de estruturação semântica com HTML5 e estilização avançada com CSS3, incluindo:
 
@@ -13,7 +13,7 @@ O objetivo deste projeto é demonstrar habilidades de estruturação semântica 
 
 ---
 
-## 🌟 Funcionalidades
+## Funcionalidades
 
 - ✅ Cabeçalho fixo com menu de navegação.
 - ✅ Seção de destaque com **hero image** e chamada para ação (CTA).
@@ -25,7 +25,7 @@ O objetivo deste projeto é demonstrar habilidades de estruturação semântica 
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** – Estruturação semântica do conteúdo.
 - **CSS3** – Estilização moderna com uso de variáveis, efeitos hover e responsividade.
@@ -33,12 +33,11 @@ O objetivo deste projeto é demonstrar habilidades de estruturação semântica 
 
 ---
 
-## 📁 Estrutura do Projeto
-
+## Estrutura do Projeto
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 O projeto é adaptado para **diferentes tamanhos de tela**, com ajustes em:
 
@@ -49,7 +48,7 @@ O projeto é adaptado para **diferentes tamanhos de tela**, com ajustes em:
 
 ---
 
-## ✨ Demonstração
+## Demonstração
 
 ### Hero Section
 > Imagem de fundo impactante com texto e botões que convidam o usuário a interagir.
@@ -65,7 +64,7 @@ O projeto é adaptado para **diferentes tamanhos de tela**, com ajustes em:
 
 ---
 
-## 💡 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 - Integração com backend para e-commerce real (ex: Firebase, Node.js)
 - Animações com JavaScript ou CSS avançado
