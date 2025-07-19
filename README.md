@@ -2,6 +2,8 @@
 
 **FitFashion** é uma landing page moderna e responsiva criada com HTML e CSS puro, com foco em apresentar uma marca fictícia de roupas fitness premium. O projeto simula um site institucional de e-commerce com identidade visual forte e foco em conversão.
 
+[Acesse a landing page aqui](https://beatrizaraujow.github.io/FitFashion/)
+
 ## Objetivo
 
 O objetivo deste projeto é demonstrar habilidades de estruturação semântica com HTML5 e estilização avançada com CSS3, incluindo:
